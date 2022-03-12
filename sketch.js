@@ -27,12 +27,12 @@ boy.scale =0.09;
 
 
 // Criando Boundary (Limite) esquerdo  
-leftBoundary=createSprite(0,0,5,800);
+leftBoundary=createSprite(0,0,100,400);
 leftBoundary.visible = false;
 
 
 //Crie Boundary direito 
-rightBoundary=createSprite(0,0,5,800);
+rightBoundary=createSprite(0,0,100,400);
 rightBoundary.visible = false;
 }
 
